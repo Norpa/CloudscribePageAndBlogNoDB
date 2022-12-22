@@ -1,0 +1,78 @@
+﻿@model cloudscribe.SimpleContent.Web.ViewModels.PageViewModel
+@{
+    var imageUrl = Model.ExtractFirstImageUrl(Model.CurrentPage, Url);
+    var zourf = Model.ExtractFirstImageDimensions(Model.CurrentPage);
+
+}
+
+@if (Model.CurrentPage != null && !string.IsNullOrEmpty(Model.CurrentPage.MetaDescription))
+{
+    <meta name="description" content="@Model.CurrentPage.MetaDescription" />
+    <meta property="og:title" content="@Model.CurrentPage.Title" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="@ViewContext.HttpContext.Request.GetCurrentFullUrl()" />
+    
+@if (!string.IsNullOrEmpty(imageUrl))
+{
+    <meta property="og:image" content="@imageUrl" />
+    <meta property="og:image:secure_url" content="@imageUrl" />
+    var yeps = System.IO.Path.GetExtension(imageUrl);
+    if (string.IsNullOrEmpty(yeps)== false){
+        yeps = yeps.Replace(".","").Trim();
+    <link rel="image_src" type="image/@yeps" href="@imageUrl" />
+    <meta property="og:image:type" content="image/@yeps" />
+    }
+    //<meta property="og:image:width" content="1200" />
+    //<meta property="og:image:height" content="375" />
+    if (zourf.Width.Contains("%"))
+    {
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="375" />
+    }
+    if (zourf.Width.Contains("px"))
+    {
+    <meta property="og:image:width" content="@zourf.Width.Replace("px","").Replace("%","").Trim()" />
+    <meta property="og:image:height" content="@zourf.Height.Replace("px","").Replace("%","").Trim()" />
+    }
+    
+    }
+    <meta property="og:description" content="@Model.CurrentPage.MetaDescription" />
+@if (!string.IsNullOrWhiteSpace(Model.ProjectSettings.SiteName))
+{
+    <meta property="og:site_name" content="@Model.ProjectSettings.SiteName" />
+}
+@if (!string.IsNullOrWhiteSpace(Model.ProjectSettings.FacebookAppId))
+{
+    <meta property="fb:app_id" content="@Model.ProjectSettings.FacebookAppId" />
+}
+
+    <meta name="twitter:card" content="summary">
+@if (!string.IsNullOrWhiteSpace(Model.ProjectSettings.TwitterPublisher))
+{
+    <meta name="twitter:site" content="@Model.ProjectSettings.TwitterPublisher" />
+}
+    <meta name="twitter:title" content="@Model.CurrentPage.Title">
+    <meta name="twitter:description" content="@Model.CurrentPage.MetaDescription"/>
+@if (!string.IsNullOrWhiteSpace(Model.ProjectSettings.TwitterCreator))
+{
+    <meta name="twitter:creator" content="@Model.ProjectSettings.TwitterCreator" />
+}
+@if (!string.IsNullOrEmpty(imageUrl))
+{
+    <meta name="twitter:image" content="@imageUrl" />
+    <meta property="twitter:image:width" content="600" />
+    <meta property="twitter:image:height" content="300" />
+    }
+
+}
+@*
+    TODO: implement this stuff
+    <link type="application/rsd+xml" rel="edituri" title="RSD" href="~/views/robots/rsd" />
+    <link type="application/rss+xml" rel="alternate" title="@Model.BlogSettings.Title" href="~/feed/rss/" />
+    <link type="application/atom+xml" rel="alternate" title="@Model.BlogSettings.Title" href="~/feed/atom/" />
+*@
+@if (!string.IsNullOrWhiteSpace(Model.ProjectSettings.SiteName))
+{
+    <link type="application/rss+xml" rel="alternate" title="@Model.ProjectSettings.SiteName" href="~/api/rss/" />
+}
+<link type="application/wlwmanifest+xml" rel="wlwmanifest"  href="~/wlwmanifest.xml" />

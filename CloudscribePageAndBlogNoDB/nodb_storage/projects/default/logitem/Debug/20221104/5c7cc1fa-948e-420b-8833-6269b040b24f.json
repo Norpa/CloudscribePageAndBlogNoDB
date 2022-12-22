@@ -1,0 +1,1 @@
+{"Id":"5c7cc1fa-948e-420b-8833-6269b040b24f","LogDateUtc":"2022-11-04T19:33:14.5334583Z","IpAddress":"::1","Culture":"fr-FR","Url":"/api/rss","ShortUrl":"/api/rss","Thread":".NET ThreadPool Worker","LogLevel":"Debug","Logger":"cloudscribe.Core.Identity.UserStore","Message":"GetUserIdAsync","StateJson":"[{\"Key\":\"{OriginalFormat}\",\"Value\":\"GetUserIdAsync\"}]","EventId":0}

@@ -1,0 +1,1 @@
+{"Id":"95abc182-cb6b-4bff-948f-df2cfbae87d5","LogDateUtc":"2022-12-18T10:53:02.5514457Z","IpAddress":"::1","Culture":"fi-FI","Url":"/","ShortUrl":"/","Thread":".NET ThreadPool Worker","LogLevel":"Debug","Logger":"cloudscribe.Core.Identity.UserStore","Message":"GetUserNameAsync","StateJson":"[{\"Key\":\"{OriginalFormat}\",\"Value\":\"GetUserNameAsync\"}]","EventId":0}

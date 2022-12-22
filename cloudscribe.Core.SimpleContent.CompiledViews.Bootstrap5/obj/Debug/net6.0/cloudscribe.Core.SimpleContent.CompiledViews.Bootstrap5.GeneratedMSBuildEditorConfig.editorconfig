@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5
+build_property.RootNamespace = cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5
+build_property.ProjectDir = C:\dev vs2022\CloudscribePageAndBlogNoDB\cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\dev vs2022\CloudscribePageAndBlogNoDB\cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/BlogMetaPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nTWV0YVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/ContentSettings/CdnUrlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFNldHRpbmdzXENkblVybFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/ContentSettings/CommentSystemSettings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFNldHRpbmdzXENvbW1lbnRTeXN0ZW1TZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/ContentSettings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFNldHRpbmdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/ContentSettings/MediaPathPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudFNldHRpbmdzXE1lZGlhUGF0aFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/Page/Tree.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxUcmVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CmsSiteLogoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENtc1NpdGVMb2dvUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CmsSiteTitlePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENtc1NpdGVUaXRsZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CommentNotificationEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1lbnROb3RpZmljYXRpb25FbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.Core.SimpleContent.CompiledViews.Bootstrap5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,45 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Description>integration library for integrating cloudscribe SimpleContent with cloudscribe Core multi-tenant web app foundation</Description>
+    <Version>6.0.0</Version>
+    <TargetFramework>net6.0</TargetFramework>
+    <Authors>Joe Audette</Authors>
+    <PackageTags>cloudscribe;blog</PackageTags>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/cloudscribe/cloudscribe.SimpleContent</PackageProjectUrl>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/cloudscribe/cloudscribe.SimpleContent.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="icon.png" Pack="true" PackagePath="\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\cloudscribe.FileManager.Web\cloudscribe.FileManager.Web.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="cloudscribe.Core.Identity" Version="6.0.3" />
+    <PackageReference Include="cloudscribe.Core.Models" Version="6.0.0" />
+    <PackageReference Include="cloudscribe.Core.Web" Version="6.0.15" />
+    <PackageReference Include="cloudscribe.MetaWeblog" Version="6.0.0" />
+    <PackageReference Include="cloudscribe.SimpleContent.Models" Version="6.0.0" />
+    <PackageReference Include="cloudscribe.SimpleContent.Web" Version="6.0.0" />
+    <PackageReference Include="cloudscribe.Web.Common" Version="6.0.0" />
+    <PackageReference Include="cloudscribe.Syndication.Web" Version="6.0.0" />
+    
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Embedded" Version="6.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Localization" Version="6.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="6.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="6.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,461 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = cloudscribe.SimpleContent.CompiledViews.Bootstrap5
+build_property.RootNamespace = cloudscribe.SimpleContent.CompiledViews.Bootstrap5
+build_property.ProjectDir = C:\dev vs2022\CloudscribePageAndBlogNoDB\cloudscribe.SimpleContent.CompiledViews.Bootstrap5\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\dev vs2022\CloudscribePageAndBlogNoDB\cloudscribe.SimpleContent.CompiledViews.Bootstrap5
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/AboutPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBYm91dFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/Archive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBcmNoaXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/ArchiveListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBcmNoaXZlTGlzdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/BlogHeaderPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nSGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/BlogMetaPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nTWV0YVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/BlogScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/BlogStylePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nU3R5bGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/CategoryListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDYXRlZ29yeUxpc3RQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/CommentLinkDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb21tZW50TGlua0RldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/CommentLinkList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb21tZW50TGlua0xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/CommentWrapperPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xDb21tZW50V3JhcHBlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/DisqusCommentsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEaXNxdXNDb21tZW50c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/DraftInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xEcmFmdEluZm9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditContentHtmlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0Q29udGVudEh0bWxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditContentMarkdownPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0Q29udGVudE1hcmtkb3duUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditCorrelationKeyPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0Q29ycmVsYXRpb25LZXlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditDraftPubDatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0RHJhZnRQdWJEYXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditHistoryInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0SGlzdG9yeUluZm9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditImageUrlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0SW1hZ2VVcmxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditPubDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0UHViRGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0U2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditSlugPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0U2x1Z1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditStylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0U3R5bGVzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditTeaserDisabledPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0VGVhc2VyRGlzYWJsZWRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditTeaserHtmlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0VGVhc2VySHRtbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditTeaserMarkdownPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0VGVhc2VyTWFya2Rvd25QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateCorrelationKeyPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlQ29ycmVsYXRpb25LZXlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateDraftPubDatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlRHJhZnRQdWJEYXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateHistoryInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlSGlzdG9yeUluZm9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateImageUrlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlSW1hZ2VVcmxQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplatePubDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlUHViRGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateSlugPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlU2x1Z1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateStylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlU3R5bGVzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/EditWithTemplateTeaserHtmlPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xFZGl0V2l0aFRlbXBsYXRlVGVhc2VySHRtbFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/HistoryInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xIaXN0b3J5SW5mb1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/NewPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xOZXdQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/NextPreviousPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xOZXh0UHJldmlvdXNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/Post.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/PostContentBodyPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQb3N0Q29udGVudEJvZHlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/PostDetailPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQb3N0RGV0YWlsUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/PostListPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQb3N0TGlzdFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/PostPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xQb3N0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/RelatedPostsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xSZWxhdGVkUG9zdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/SideBarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xTaWRlQmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Blog/ToolsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xUb29sc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/ContentHistory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGVudEhpc3RvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/AddCssPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxBZGRDc3NQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/AddJsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxBZGRKc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/ChildMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDaGlsZE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/CommentWrapperPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxDb21tZW50V3JhcHBlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/Development.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxEZXZlbG9wbWVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/DisqusCommentsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxEaXNxdXNDb21tZW50c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/DraftInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxEcmFmdEluZm9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditCommentsEnabledPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0Q29tbWVudHNFbmFibGVkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditCorrelationKeyPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0Q29ycmVsYXRpb25LZXlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditDraftPubDatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0RHJhZnRQdWJEYXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditHistoryInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0SGlzdG9yeUluZm9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditorPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0b3JQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditPubDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0UHViRGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0U2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditStylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0U3R5bGVzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplateCommentsEnabledPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlQ29tbWVudHNFbmFibGVkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplateCorrelationKeyPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlQ29ycmVsYXRpb25LZXlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplateDraftPubDatePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlRHJhZnRQdWJEYXRlUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplateHistoryInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlSGlzdG9yeUluZm9QYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplatePubDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlUHViRGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplateScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/EditWithTemplateStylesPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxFZGl0V2l0aFRlbXBsYXRlU3R5bGVzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/FeaturedPostsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxGZWF0dXJlZFBvc3RzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/History.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxIaXN0b3J5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/HistoryInfoPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxIaXN0b3J5SW5mb1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/IndexMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxJbmRleE1lbnUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/MetaPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxNZXRhUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/NewPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxOZXdQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/NoPages.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxOb1BhZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxOb3RGb3VuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/PageBottomPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxQYWdlQm90dG9tUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/PageContentBodyPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxQYWdlQ29udGVudEJvZHlQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/PageDetailPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxQYWdlRGV0YWlsUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/PageScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxQYWdlU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/PageTopPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxQYWdlVG9wUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/RecentPostsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxSZWNlbnRQb3N0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/SiteMapIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxTaXRlTWFwSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/StylePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxTdHlsZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/ToolsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxUb29sc1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/Tree.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxUcmVlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/TreeMainPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxUcmVlTWFpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/TreeScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxUcmVlU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Page/TreeStylePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnZVxUcmVlU3R5bGVQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/AdSpacePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkU3BhY2VQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CommentEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1lbnRFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CommentFormPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1lbnRGb3JtUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CommentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1lbnRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CommentScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1lbnRTY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/CommentStylePartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbW1lbnRTdHlsZVBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/Components/FeaturedPosts/FeaturedPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRmVhdHVyZWRQb3N0c1xGZWF0dXJlZFBvc3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/Components/RecentPosts/RecentPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVjZW50UG9zdHNcUmVjZW50UG9zdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/Components/RelatedPosts/RelatedPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVsYXRlZFBvc3RzXFJlbGF0ZWRQb3N0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/HistoryGridPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEhpc3RvcnlHcmlkUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/NewContentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5ld0NvbnRlbnRQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/_LayoutEmailCommentNotification.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFbWFpbENvbW1lbnROb3RpZmljYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/Shared/_LayoutEmpty.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFbXB0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/dev vs2022/CloudscribePageAndBlogNoDB/cloudscribe.SimpleContent.CompiledViews.Bootstrap5/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 

@@ -1,0 +1,1 @@
+{"Id":"0adb8116-c98a-4956-aed0-f36bab25cc1a","TenantId":"c1bc7aef-52e4-489b-a0c5-2ef9583910d7","Name":"FileManagerPolicy","RequireAuthenticatedUser":false,"RequiredUserName":null,"AllowedRoles":["Administrators"],"AuthenticationSchemes":[],"RequiredClaims":[],"Notes":null}

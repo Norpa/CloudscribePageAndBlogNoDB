@@ -1,0 +1,1 @@
+{"Id":"03571f66-c4b2-472d-a5a5-a36709a3ee4e","LogDateUtc":"2022-11-04T19:02:26.3776791Z","IpAddress":"::1","Culture":"en-US","Url":"/","ShortUrl":"/","Thread":".NET ThreadPool Worker","LogLevel":"Debug","Logger":"cloudscribe.Core.Identity.UserStore","Message":"GetEmailAsync","StateJson":"[{\"Key\":\"{OriginalFormat}\",\"Value\":\"GetEmailAsync\"}]","EventId":0}

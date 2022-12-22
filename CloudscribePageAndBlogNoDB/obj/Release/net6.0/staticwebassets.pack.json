@@ -1,0 +1,165 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\ie11.css",
+      "PackagePath": "staticwebassets\\css\\ie11.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\css\\site.min.css",
+      "PackagePath": "staticwebassets\\css\\site.min.css"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\dev vs2022\\CloudscribePageAndBlogNoDB\\CloudscribePageAndBlogNoDB\\wwwroot\\wlwmanifest.xml",
+      "PackagePath": "staticwebassets\\wlwmanifest.xml"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.CloudscribePageAndBlogNoDB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.CloudscribePageAndBlogNoDB.props",
+      "PackagePath": "build\\CloudscribePageAndBlogNoDB.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CloudscribePageAndBlogNoDB.props",
+      "PackagePath": "buildMultiTargeting\\CloudscribePageAndBlogNoDB.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.CloudscribePageAndBlogNoDB.props",
+      "PackagePath": "buildTransitive\\CloudscribePageAndBlogNoDB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

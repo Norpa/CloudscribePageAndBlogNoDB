@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-16"?>
+<post>
+  <id>test</id>
+  <title>test</title>
+  <slug>test</slug>
+  <correlationkey />
+  <author>Admin</author>
+  <pubDate>2022-11-04T19:31:21.6569166Z</pubDate>
+  <lastModified>2022-12-18T14:13:13</lastModified>
+  <excerpt>fgfgdfgdgdfgdfg</excerpt>
+  <content>&lt;p&gt;test&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="" src="/img/daisy-303294__340.webp" style="width: 376px; height: 340px;" /&gt;&lt;/p&gt;
+</content>
+  <contentType>html</contentType>
+  <imageUrl />
+  <thumbnailUrl />
+  <createdUtc>2022-11-04T19:31:21</createdUtc>
+  <createdByUser>admin</createdByUser>
+  <lastModifiedByUser>admin</lastModifiedByUser>
+  <draftAuthor />
+  <draftContent />
+  <draftPubDate />
+  <templateKey></templateKey>
+  <serializedModel></serializedModel>
+  <draftSerializedModel></draftSerializedModel>
+  <serializer></serializer>
+  <blogId>c1bc7aef-52e4-489b-a0c5-2ef9583910d7</blogId>
+  <ispublished>true</ispublished>
+  <isFeatured>false</isFeatured>
+  <autoTeaser></autoTeaser>
+  <teaserOverride />
+  <suppressTeaser>false</suppressTeaser>
+  <categories>
+    <category>test</category>
+  </categories>
+  <comments></comments>
+  <showcomments>true</showcomments>
+</post>

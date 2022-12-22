@@ -1,0 +1,1 @@
+{"Id":"2476e66c-ffc9-4568-9b74-5b452467690a","TenantId":"c1bc7aef-52e4-489b-a0c5-2ef9583910d7","Name":"ViewContentHistoryPolicy","RequireAuthenticatedUser":false,"RequiredUserName":null,"AllowedRoles":["Administrators"],"AuthenticationSchemes":[],"RequiredClaims":[],"Notes":null}

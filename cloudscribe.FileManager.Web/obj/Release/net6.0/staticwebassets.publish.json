@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LoKgyvTHKVFVK3sdGf/623SV4XF4BxFbNDjzqe8DBnk=",
+  "Source": "cloudscribe.FileManager.Web",
+  "BasePath": "_content/cloudscribe.FileManager.Web",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cloudscribe.SimpleContent.CompiledViews.Bootstrap5.props" />
+</Project>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\dev vs2022\CloudscribePageAndBlogNoDB\CloudscribePageAndBlogNoDB\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>False|2022-12-18T11:04:16.0429267Z;False|2022-12-18T13:02:48.0113818+02:00;True|2022-11-25T07:47:54.7084580+02:00;True|2022-11-23T11:18:47.4903815+02:00;True|2022-11-16T20:34:37.0452466+02:00;True|2022-11-05T10:22:28.0104713+02:00;True|2022-10-21T13:13:21.0636947+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
